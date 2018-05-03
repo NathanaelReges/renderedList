@@ -78,10 +78,6 @@ _['renderedList/init.js'] = function initRenderedList (arrayOfItems, {reverse} =
             if(indexLimit)
                 indexLimit.start()
             //
-        },
-        reachedScrollTop () {
-            
-            //
         }
     }
 
