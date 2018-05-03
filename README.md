@@ -16,4 +16,10 @@ const  **module**&ensp; = &ensp; renderedList(&ensp;**arrayOfElements**,&ensp;{&
 
 <br/>**module.setPullUpdate(&ensp;callback&ensp;)**&ensp; This method implements the famous pull to update action, all you need to do is pass it a callBack that must return a Promise to be resolved with an array containing the new Elements. When the user pulls the beginning of the page the module will execute the callback function and append the new elements to the start.
 
-<br/><br/>**Important:** All the elements used in the list must have the same marginTop and can't have marginBottom.
+<br/><br/>**Important:** 
+
+All the elements used in the list must have the same marginTop and can't have marginBottom.
+
+This module is meant to be used on mobile devices.
+
+Currently it doesn't support changes to the size of the screen, so no screen rotation.
