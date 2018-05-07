@@ -27,3 +27,5 @@ All the elements used in the list must have the same marginTop and can't have ma
 This module is meant to be used on mobile devices.
 
 Currently it doesn't support changes to the size of the screen, so no screen rotation.
+
+Once renderedList is removed, it won't work as expected when re-appended.
