@@ -26,6 +26,6 @@ All the elements used in the list must have the same marginTop and can't have ma
 
 This module is meant to be used on mobile devices.
 
-Currently it doesn't support changes to the size of the screen, so no screen rotation.
+Currently it doesn't support changes in screen size, so no screen rotation.
 
-Once renderedList is removed, it won't work as expected when re-appended.
+Currently, re-appending the renderedList after it is removed, won't work as expected.
