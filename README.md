@@ -1,5 +1,5 @@
 # renderedList
-![Image of Rl](https://image.ibb.co/cq09ES/RL.png)
+&ensp;&ensp;&ensp;&ensp;&ensp;![Image of Rl](https://image.ibb.co/cq09ES/RL.png)
 
 <br/>const  **module**&ensp; = &ensp; renderedList(&ensp;**arrayOfElements**,&ensp;{&ensp;**reverse**&ensp;}&ensp;)<br/>
 
