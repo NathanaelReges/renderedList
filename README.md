@@ -10,7 +10,7 @@
 
 <br/>**module.appended(**&ensp;{&ensp;**insideAnimationFrame**&ensp;}&ensp;**)** &ensp; This method needs to be called as soon as you append the renderedList.ele. It will perform some measurements to put everything in place. If for some reason you are calling it inside an animation frame, signalize this by setting the parameter insideAnimationFrame to true.
 
-<br/>**module.removed()** &ensp; If you need to remove the renderedList and move on to another view on your SPA, it's important to call this method after you remove the renderedList.ele, because it will end any bindings from the document.
+<br/>**module.removed()** &ensp; It's very important to call this method after you remove the renderedList.ele from the DOM, it will disconnect the renderedList from the document.
 
 <br/>**module.addItemsToStart(&ensp;arrayOfElements&ensp;)** &ensp; With this method you can add more items to the list.
 
