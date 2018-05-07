@@ -1,7 +1,7 @@
 # renderedList
 ![Image of Rl](https://image.ibb.co/cq09ES/RL.png)
 
-const  **module**&ensp; = &ensp; renderedList(&ensp;**arrayOfElements**,&ensp;{&ensp;**reverse**&ensp;}&ensp;)<br/>
+<br/>const  **module**&ensp; = &ensp; renderedList(&ensp;**arrayOfElements**,&ensp;{&ensp;**reverse**&ensp;}&ensp;)<br/>
 
 **arrayOfElements** &ensp; An array with all the elements that compose the list.  
 **reverse** &ensp; Boolean, defaults to false. If true, the list is rendered like a chat window.
