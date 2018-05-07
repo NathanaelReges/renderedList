@@ -1,6 +1,10 @@
 # renderedList
 &ensp;&ensp;&ensp;&ensp;&ensp;![Image of Rl](https://image.ibb.co/cq09ES/RL.png)
 
+<br/>[TEST IT NOW](https://nathanaelreges.github.io/renderedListPage/) <- click the link, open DevTools, toggle mobile view, reload the page and you are ready to play.
+
+(Open the layers tab to see the module in action.)
+
 <br/>const  **module**&ensp; = &ensp; renderedList(&ensp;**arrayOfElements**,&ensp;{&ensp;**reverse**&ensp;}&ensp;)<br/>
 
 **arrayOfElements** &ensp; An array with all the elements that compose the list.  
